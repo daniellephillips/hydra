@@ -1,5 +1,5 @@
-- name: Pricing
-  link: /pricing/
+- name: Pricing2
+  link: /pricing2/
   new_window: false
   highlight: false
 - name: Blog
@@ -7,7 +7,7 @@
   new_window: false
   highlight: false
 - name: AboutME
-  link: /aboutME/
+  link: /about/
   new_window: false
   highlight: false
 - name: Contact
