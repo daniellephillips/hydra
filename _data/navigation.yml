@@ -1,12 +1,8 @@
-- name: Pricing2
-  link: /pricing/
+- name: Work
+  link: /work/
   new_window: false
   highlight: false
-- name: Blog
-  link: /blog/
-  new_window: false
-  highlight: false
-- name: AboutME
+- name: Abou
   link: /about/
   new_window: false
   highlight: false
@@ -18,7 +14,3 @@
   link: /
   new_window: true
   highlight: false
-- name: Sign Up
-  link: /
-  new_window: true
-  highlight: true
