@@ -1,6 +1,6 @@
 - name: Work
   link: /work/
-  new_window: false
+  new_window: true
   highlight: false
 - name: About
   link: /about/
